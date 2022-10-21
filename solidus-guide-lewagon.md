@@ -8,10 +8,10 @@ Due to the level of complexity provided by the Solidus gem, this guide is intend
 
 ## Versions
 
-Ruby: 3.1.2
-Ruby on Rails: 7.0.4
-Solidus: 3.2
-PostgreSQL: 14.4
+- Ruby: 3.1.2
+- Ruby on Rails: 7.0.4
+- Solidus: 3.2
+- PostgreSQL: 14.4
 
 ## Installing Solidus
 
